@@ -1,0 +1,12 @@
+MIKO IT SOLUTIONS — SITE VITRINE
+
+Fichiers :
+- index.html : site responsive en français
+- assets/pharmagest-android-presentation.png : affiche Android fournie par le client
+- assets/pharmagest-pc-android-presentation.png : affiche PC + Android fournie par le client
+- assets/miko-it-solutions-logo.png : identité visuelle si disponible
+
+Pour tester : décompressez l’archive et ouvrez index.html dans un navigateur.
+Pour publier : téléversez le contenu du dossier sur un hébergeur de site statique.
+
+Vérifiez avant publication les textes de fonctionnalités et le lien éventuel de démonstration. Les images PharmaGest sont celles fournies par le client.
